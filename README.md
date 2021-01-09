@@ -8,7 +8,7 @@ Connect with me here   [![LinkedIn](https://shields.io/badge/linkedIn-blue?logo=
 
 ----
 
-[![Visit Badge](https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/mahendraHegde)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/mahendraHegde)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/yearly/mahendraHegde)](https://badges.pufler.dev)
+![Visit Badge](https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde) ![Years Badge](https://badges.pufler.dev/years/mahendraHegde)![Repos Badge](https://badges.pufler.dev/repos/mahendraHegde) ![Commits Badge](https://badges.pufler.dev/commits/yearly/mahendraHegde)
 
 
 
