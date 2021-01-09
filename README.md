@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde)](https://badges.pufler.dev)
+
+
 <!--
 **mahendraHegde/mahendraHegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
