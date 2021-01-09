@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there 👋 Thanks for visiting my profile.
+#### I'm Mahendra Hegde
+###### -  Software Engineer 👨‍💻 
+----
+Visit My Personal website here.  [![PortFolio](https://shields.io/badge/portfolio-gray?logo=react&style=plastic)](https://mahendrahegde.github.io/portfolio/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde)](https://badges.pufler.dev)
+Connect with me here   [![LinkedIn](https://shields.io/badge/linkedIn-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mahendrahegde9)
+
+----
+
+[![Visit Badge](https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/mahendraHegde)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/mahendraHegde)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/yearly/mahendraHegde)](https://badges.pufler.dev)
+
 
 
 <!--
