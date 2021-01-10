@@ -2,14 +2,30 @@
 #### I'm Mahendra Hegde
 ###### -  Software Engineer 👨‍💻 
 ----
-Visit My Personal website here.  [![PortFolio](https://shields.io/badge/portfolio-gray?logo=react&style=plastic)](https://mahendrahegde.github.io/portfolio/)
+<p align="center">
+  <a href="https://github.com/puf17640" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahendraHegde&theme=react" alt="Mahendra's Stats" >
+  </a>
+</p>
 
-Connect with me here   [![LinkedIn](https://shields.io/badge/linkedIn-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/mahendrahegde9)
-
+<p align="center">
+  &emsp;
+  <a href="https://mahendrahegde.github.io/portfolio/">
+    <img src="https://img.icons8.com/material/256/0C9DFC/globe--v1.png" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/mahendrahegde9">
+    <img src="https://img.icons8.com/ios-filled/256/0e76a8/linkedin.svg" width="26px"/>
+  </a>
+  <br><br>
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <img src="https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde?style=flat-square&color=success&logo=github">
+  <img src="https://badges.pufler.dev/years/mahendraHegde?style=flat-square&color=success&logo=github">
+  <img src="https://badges.pufler.dev/repos/mahendraHegde?style=flat-square&color=success&logo=github">
+   <img src="https://badges.pufler.dev/commits/monthly/mahendraHegde?style=flat-square&color=success&logo=github">
+</p>
 ----
-
-![Visit Badge](https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde) ![Years Badge](https://badges.pufler.dev/years/mahendraHegde) ![Repos Badge](https://badges.pufler.dev/repos/mahendraHegde) ![Commits Badge](https://badges.pufler.dev/commits/yearly/mahendraHegde)
-
 
 
 <!--
