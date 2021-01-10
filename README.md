@@ -23,8 +23,13 @@
   <img src="https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde?style=flat-square&color=success&logo=github">
   <img src="https://badges.pufler.dev/years/mahendraHegde?style=flat-square&color=success&logo=github">
   <img src="https://badges.pufler.dev/repos/mahendraHegde?style=flat-square&color=success&logo=github">
-   <img src="https://badges.pufler.dev/commits/monthly/mahendraHegde?style=flat-square&color=success&logo=github">
+  <img src="https://badges.pufler.dev/commits/monthly/mahendraHegde?style=flat-square&color=success&logo=github">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendraHegde&langs_count=10&theme=react&hide=asp">
+</p>
+
 
 
 <!--
