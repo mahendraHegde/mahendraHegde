@@ -25,7 +25,6 @@
   <img src="https://badges.pufler.dev/repos/mahendraHegde?style=flat-square&color=success&logo=github">
    <img src="https://badges.pufler.dev/commits/monthly/mahendraHegde?style=flat-square&color=success&logo=github">
 </p>
-----
 
 
 <!--
