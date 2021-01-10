@@ -3,9 +3,7 @@
 ###### -  Software Engineer 👨‍💻 
 ----
 <p align="center">
-  <a href="https://github.com/puf17640" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahendraHegde&theme=react" alt="Mahendra's Stats" >
-  </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=mahendraHegde&theme=react" alt="Mahendra's Stats" >
 </p>
 
 <p align="center">
