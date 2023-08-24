@@ -1,5 +1,5 @@
 ### Hi there 👋 Thanks for visiting my profile.
-#### I'm Mahendra Hegde
+#### I'm Mahendra
 ###### -  Software Engineer 👨‍💻 
 ----
 <p align="center">
