@@ -2,6 +2,18 @@
 #### I'm Mahendra
 ###### -  Software Engineer 👨‍💻 
 ----
+
+## OpenSource Contributions
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
+| --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/nukeop/nuclear-electron-blue?style=flat-square)](https://github.com/nukeop/nuclear) | ![GitHub Repo stars](https://img.shields.io/github/stars/nukeop/nuclear?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/nukeop/nuclear?style=flat-square) | [PRs](https://github.com/nukeop/nuclear/pulls?q=is%3Apr+author%3AmahendraHegde+) |
+| [![Github Repo](https://img.shields.io/badge/nearform/fast-jwt-blue?style=flat-square)](https://github.com/nearform/fast-jwt) | ![GitHub Repo stars](https://img.shields.io/github/stars/nearform/fast-jwt?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/nearform/fast-jwt?style=flat-square) | [PRs](https://github.com/nearform/fast-jwt/pulls?q=is%3Apr+author%3AmahendraHegde+) |
+| [![Github Repo](https://img.shields.io/badge/jsumners/abstract-cache-redis?style=flat-square)](https://github.com/jsumners/abstract-cache-redis) | ![GitHub Repo stars](https://img.shields.io/github/stars/jsumners/abstract-cache-redis?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/jsumners/abstract-cache-redis?style=flat-square) | [PRs](https://github.com/jsumners/abstract-cache-redis/pulls?q=is%3Apr+author%3AmahendraHegde+) |
+| [![Github Repo](https://img.shields.io/badge/abahmed/Deer-electron-blue?style=flat-square)](https://github.com/abahmed/Deer) | ![GitHub Repo stars](https://img.shields.io/github/stars/abahmed/Deer?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/abahmed/Deer?style=flat-square) | [PRs](https://github.com/abahmed/Deer/pulls?q=is%3Apr+author%3AmahendraHegde+) |
+| [![Github Repo](https://img.shields.io/badge/jwu910/check-it-out?style=flat-square)](https://github.com/jwu910/check-it-out) | ![GitHub Repo stars](https://img.shields.io/github/stars/jwu910/check-it-out?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/jwu910/check-it-out?style=flat-square) | [PRs](https://github.com/jwu910/check-it-out/pulls?q=is%3Apr+author%3AmahendraHegde+) |
+| [![Github Repo](https://img.shields.io/badge/braintree/credit-card-type?style=flat-square)](https://github.com/braintree/credit-card-type) | ![GitHub Repo stars](https://img.shields.io/github/stars/braintree/credit-card-type?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/braintree/credit-card-type?style=flat-square) | [PRs](https://github.com/braintree/credit-card-type/pulls?q=is%3Apr+author%3AmahendraHegde+) |
+
+----
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=mahendraHegde&theme=react" alt="Mahendra's Stats" >
 </p>
