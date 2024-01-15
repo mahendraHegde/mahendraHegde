@@ -1,9 +1,11 @@
-### Hi there 👋 Thanks for visiting my profile.
-#### I'm Mahendra
-###### -  Software Engineer 👨‍💻 
-----
+## 💫 About Me:
+🔭 Hello, I'm Mahendra Backend focused fullstack developer.<br>👯 I’m looking to collaborate on exciting open source projects.<br>
 
-## OpenSource Contributions
+
+## 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ISTIO](https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=white&color=%23466BB0) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![NEWRELIC](https://img.shields.io/badge/newrelic-1CE783.svg?style=for-the-badge&logo=newrelic&logoColor=white&color=%231CE783)
+
+### OpenSource Contributions
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
 | --- | --- | --- | --- |
 | [![Github Repo](https://img.shields.io/badge/Shelf-typescript-blue?style=flat-square)](https://github.com/Shelf-nu/shelf.nu) | ![GitHub Repo stars](https://img.shields.io/github/stars/Shelf-nu/shelf.nu?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/Shelf-nu/shelf.nu?style=flat-square) | [PRs](https://github.com/Shelf-nu/shelf.nu/pulls?q=is%3Apr+author%3AmahendraHegde) |
@@ -19,32 +21,22 @@
 | [![Github Repo](https://img.shields.io/badge/braintree/credit-card-type?style=flat-square)](https://github.com/braintree/credit-card-type) | ![GitHub Repo stars](https://img.shields.io/github/stars/braintree/credit-card-type?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/braintree/credit-card-type?style=flat-square) | [PRs](https://github.com/braintree/credit-card-type/pulls?q=is%3Apr+author%3AmahendraHegde+) |
 
 ----
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mahendraHegde&theme=react" alt="Mahendra's Stats" >
-</p>
 
-<p align="center">
-  &emsp;
-  <a href="https://mahendrahegde.github.io/portfolio/">
-    <img src="https://img.icons8.com/material/256/0C9DFC/globe--v1.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/mahendrahegde9">
-    <img src="https://img.icons8.com/ios-filled/256/0e76a8/linkedin.svg" width="26px"/>
-  </a>
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <img src="https://badges.pufler.dev/visits/mahendraHegde/mahendraHegde?style=flat-square&color=success&logo=github">
-  <img src="https://badges.pufler.dev/years/mahendraHegde?style=flat-square&color=success&logo=github">
-  <img src="https://badges.pufler.dev/repos/mahendraHegde?style=flat-square&color=success&logo=github">
-  <img src="https://badges.pufler.dev/commits/monthly/mahendraHegde?style=flat-square&color=success&logo=github">
-</p>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahendrahegde&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahendrahegde&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrahegde&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendraHegde&langs_count=10&theme=react&hide=asp,html">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mahendrahegde&icon=0&color=0)](https://visitcount.itsvg.in)
+
+----
 
 
 <!--
