@@ -7,7 +7,7 @@
 | Category | Title               |
 |----------|---------------------|
 | Course   | [Grokking the Advanced System Design](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)|
-| Course   | [System Design – An Insider's Guide: Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)|
+| Book   | [System Design – An Insider's Guide: Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)|
 
 ### ✅ Completed
 | Category | Title               |
