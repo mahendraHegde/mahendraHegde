@@ -18,6 +18,7 @@
 ### 🔜 Plan to Read
 | Category | Title               |
 |----------|---------------------|
+| Paper    | [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)|
 | Paper    | [Distributed Transactions at Scale in Amazon DynamoDB](https://drive.google.com/file/d/1dIX26Vyiva_qxO_5syfMa85ynFpVPIDO/view)|
 | Paper    | [The Deletable Bloom filter](https://drive.google.com/file/d/1f-LFOroH5WihpfSENXCQJGyM4EWOAgc8/view)|
 | Book     | [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.in/Database-Internals-Deep-Distributed-Systems/dp/9352139070)|
