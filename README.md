@@ -7,7 +7,6 @@
 | Category | Title               |
 |----------|---------------------|
 | Book   | [System Design – An Insider's Guide: Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)|
-| Paper    | [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)|
 
 ### ✅ Completed
 | Category | Title               |
@@ -15,6 +14,7 @@
 | Book     | [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) |
 | Paper    | [Dynamo](https://drive.google.com/file/d/1dIX26Vyiva_qxO_5syfMa85ynFpVPIDO/view) |
 | Course   | [Grokking the Advanced System Design](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)|
+| Paper    | [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)|
 
 
 ### 🔜 Plan to Read
