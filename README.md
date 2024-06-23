@@ -2,6 +2,7 @@
 🔭 Hello, I'm Mahendra. Backend focused fullstack developer.
 <br>👯 I’m looking to collaborate on exciting open source projects.
 <br> 💻 working on [peer-ring](https://github.com/mahendraHegde/peer-ring) in my free time.
+<br> 📦 checkout my npm profile [here](https://www.npmjs.com/~maehendra9).
 
 ## 📚 Reading List 2024
 
