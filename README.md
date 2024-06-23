@@ -1,7 +1,7 @@
 ## 💫 About Me:
 🔭 Hello, I'm Mahendra. Backend focused fullstack developer.
 <br>👯 I’m looking to collaborate on exciting open source projects.
-<br> 💻 working on [peer-ring](https://github.com/mahendraHegde/peer-ring) on free time.
+<br> 💻 working on [peer-ring](https://github.com/mahendraHegde/peer-ring) in my free time.
 
 ## 📚 Reading List 2024
 
