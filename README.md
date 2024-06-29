@@ -10,6 +10,8 @@
 | Category | Title               |
 |----------|---------------------|
 | Book   | [System Design – An Insider's Guide: Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)|
+| Course   | [Grokking the System Design](https://www.designgurus.io/course/grokking-the-system-design-interview)|
+
 
 ### ✅ Completed
 | Category | Title               |
