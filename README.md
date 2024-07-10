@@ -9,8 +9,7 @@
 ### 📖 Currently Reading
 | Category | Title               |
 |----------|---------------------|
-| Book   | [System Design – An Insider's Guide: Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)|
-| Course   | [Grokking the System Design](https://www.designgurus.io/course/grokking-the-system-design-interview)|
+| Book     | [System Design – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)|
 
 
 ### ✅ Completed
@@ -20,6 +19,8 @@
 | Paper    | [Dynamo](https://drive.google.com/file/d/1dIX26Vyiva_qxO_5syfMa85ynFpVPIDO/view) |
 | Course   | [Grokking the Advanced System Design](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)|
 | Paper    | [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)|
+| Book   | [System Design – An Insider's Guide: Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)|
+| Course   | [Grokking the System Design](https://www.designgurus.io/course/grokking-the-system-design-interview)|
 
 
 ### 🔜 Plan to Read
@@ -29,7 +30,6 @@
 | Paper    | [The Deletable Bloom filter](https://drive.google.com/file/d/1f-LFOroH5WihpfSENXCQJGyM4EWOAgc8/view)|
 | Book     | [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.in/Database-Internals-Deep-Distributed-Systems/dp/9352139070)|
 | Book     | [Building Microservices](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Grayscale/dp/9391043380)|
-| Book     | [System Design – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)|
 
 
 
