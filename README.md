@@ -9,7 +9,7 @@
 ### 📖 Currently Reading
 | Category | Title               |
 |----------|---------------------|
-| Book     | [Building Microservices](https://www.amazon.in/Building-Microservices-Designing-Fine-Grained-Grayscale/dp/9391043380)|
+| Book     | [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.in/Database-Internals-Deep-Distributed-Systems/dp/9352139070)|
 
 
 ### ✅ Completed
@@ -23,14 +23,13 @@
 | Course   | [Grokking the System Design](https://www.designgurus.io/course/grokking-the-system-design-interview)|
 | Paper    | [The Deletable Bloom filter](https://drive.google.com/file/d/1f-LFOroH5WihpfSENXCQJGyM4EWOAgc8/view)|
 | Book     | [System Design – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)|
+| Paper    | [Distributed Transactions at Scale in Amazon DynamoDB](https://drive.google.com/file/d/1dIX26Vyiva_qxO_5syfMa85ynFpVPIDO/view)|
 
 
 
 ### 🔜 Plan to Read
 | Category | Title               |
 |----------|---------------------|
-| Paper    | [Distributed Transactions at Scale in Amazon DynamoDB](https://drive.google.com/file/d/1dIX26Vyiva_qxO_5syfMa85ynFpVPIDO/view)|
-| Book     | [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.in/Database-Internals-Deep-Distributed-Systems/dp/9352139070)|
 
 
 
