@@ -3,7 +3,7 @@
 <br>👯 I’m looking to collaborate on exciting open source projects.
 <br> 📦 checkout my npm profile [here](https://www.npmjs.com/~maehendra9).
 
-### Reading List 2025
+## 📚 Reading List 2025
 
 ### 📖 Currently Reading
 | Category | Title               |
@@ -15,6 +15,7 @@
 |----------|---------------------|
 | Book     | [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.in/Database-Internals-Deep-Distributed-Systems/dp/9352139070)|
 
+----
 
 ## 📚 Reading List 2024
 
