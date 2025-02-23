@@ -3,17 +3,25 @@
 <br>👯 I’m looking to collaborate on exciting open source projects.
 <br> 📦 checkout my npm profile [here](https://www.npmjs.com/~maehendra9).
 
-## 📚 Reading List 2024
+### Reading List 2025
 
 ### 📖 Currently Reading
+| Category | Title               |
+|----------|---------------------|
+| AI       | more in depth on LLMs, Agents Langchain |
+
+### 🔜 Plan to Read
 | Category | Title               |
 |----------|---------------------|
 | Book     | [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.in/Database-Internals-Deep-Distributed-Systems/dp/9352139070)|
 
 
+## 📚 Reading List 2024
+
 ### ✅ Completed
 | Category | Title               |
 |----------|---------------------|
+| Course   | https://github.com/mlabonne/llm-course  |
 | Book     | [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) |
 | Paper    | [Dynamo](https://drive.google.com/file/d/1dIX26Vyiva_qxO_5syfMa85ynFpVPIDO/view) |
 | Course   | [Grokking the Advanced System Design](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)|
@@ -24,11 +32,6 @@
 | Book     | [System Design – An Insider's Guide: Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)|
 | Paper    | [Distributed Transactions at Scale in Amazon DynamoDB](https://drive.google.com/file/d/1dIX26Vyiva_qxO_5syfMa85ynFpVPIDO/view)|
 
-
-
-### 🔜 Plan to Read
-| Category | Title               |
-|----------|---------------------|
 
 
 
